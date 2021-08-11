@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-main to conflict
+GitHub上で更新
 
