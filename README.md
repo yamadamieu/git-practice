@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-clean up
+clean up 変更
